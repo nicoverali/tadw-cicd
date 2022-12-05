@@ -1,6 +1,5 @@
 css:
-  - *.css
+  - "*.css"
 
 html:
-  - *.html
-  
+  - "*.html"
